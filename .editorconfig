@@ -1,0 +1,11 @@
+# EditorConfig file reference at https://spec.editorconfig.org
+
+# mark the project root to stop the upward search for .editorconfig files
+root = true
+
+# match any string of characters except path separators
+[*]
+charset = utf-8
+end_of_line = lf
+trim_trailing_whitespace = true
+insert_final_newline = true
