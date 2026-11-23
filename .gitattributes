@@ -1,0 +1,4 @@
+# gitattributes file reference at https://git-scm.com/docs/gitattributes
+
+# normalize all text files to LF and always check out LF line endings
+* text=auto eol=lf
